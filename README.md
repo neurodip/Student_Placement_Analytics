@@ -45,6 +45,7 @@ This project analyzes student placement records to understand hiring patterns, s
 
 ## Project Structure
 **student_placement_project/**
+```
 ├── data/
 │ ├── indian_student_placement_data.csv ← raw file
 │ └── placement_cleaned.csv ← excel cleaned version
@@ -66,4 +67,6 @@ This project analyzes student placement records to understand hiring patterns, s
 │ └── Final_Report.pdf ← project report
 │
 └── README.md
-
+```
+## Conclusion
+This project showcases how Excel, SQL, Python, and Tableau can be integrated to analyze student placement data effectively. The insights reveal hiring patterns, salary trends, and top recruiters across branches and years, helping academic institutions and students make informed career decisions. The approach can be reused for similar education or recruitment datasets to drive data-backed planning.
